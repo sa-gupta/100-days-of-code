@@ -25,6 +25,8 @@
 
 ### Non-Coding
 1. ["Think And Grow Rich" By Napoleon Hill](https://www.goodreads.com/book/show/30186948-think-and-grow-rich?ac=1&from_search=true&qid=nqc2wCqXoy&rank=1)
+2. [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck?ac=1&from_search=true&qid=G1rJaGjrB9&rank=1)
+
 
 ### Coding
 1. "Professional Node.js" by Teixeira
