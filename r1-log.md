@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Sachin Gupta]
 
 The log of my #100DaysOfCode challenge. Started on [February 28, friday, 2020].
 
